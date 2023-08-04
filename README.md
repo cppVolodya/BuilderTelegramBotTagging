@@ -26,29 +26,29 @@
 
 - Default mode (for the current machine architecture)
 
-https://github.com/cppVolodya/text_editor/assets/103601559/edf2cc1f-28df-4439-a8b8-79db31de5524
+https://github.com/cppVolodya/BuilderTelegramBotTagging/assets/103601559/adfb22b0-2491-4246-90d5-0f83da52acdf
 
 - Custom mode (you will choose the architecture)
 
-https://github.com/cppVolodya/text_editor/assets/103601559/afb3a4b6-bcf3-4f73-8a0d-8d159d75d29e
+https://github.com/cppVolodya/BuilderTelegramBotTagging/assets/103601559/1d33a786-5471-434f-9a9f-6a27e731c307
 
 - All mode (for both {X32} and {X64} on the current machine architecture)
 
-https://github.com/cppVolodya/text_editor/assets/103601559/390f21da-97c1-4677-897d-97ca13127293
+https://github.com/cppVolodya/BuilderTelegramBotTagging/assets/103601559/2a31e1df-9298-42ef-b579-947561bd9d63
 
 ### Linux:
 
 - Default mode (for the current machine architecture)
 
-https://github.com/cppVolodya/text_editor/assets/103601559/ca72c759-4905-4f38-95fe-59a879f1bd25
+https://github.com/cppVolodya/BuilderTelegramBotTagging/assets/103601559/89a3f5b3-ce1d-4def-8801-57b8042eca9c
 
 - Custom mode (you will choose the architecture)
 
-https://github.com/cppVolodya/text_editor/assets/103601559/22b4d2b5-54cf-426e-98fe-158c3f828d6a
+https://github.com/cppVolodya/BuilderTelegramBotTagging/assets/103601559/628d669b-dab0-423b-b659-fe617a56547e
 
 - All mode (for both {X32} and {X64} on the current machine architecture)
 
-https://github.com/cppVolodya/text_editor/assets/103601559/e53ee80b-2af9-4e70-a9ce-606b4d379562
+https://github.com/cppVolodya/BuilderTelegramBotTagging/assets/103601559/4302d0c2-2873-487c-80d4-1345e5beb4ab
 
 ## Installation
 
